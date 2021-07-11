@@ -1,6 +1,5 @@
 # ee-brightbox
-creates possible default passwords for ee-brightbox routers
-this is just a proof of concept program and uses a small dictionary because of this
+This program creates possible default passwords for ee-brightbox routers. This is just a proof of concept program and uses a small dictionary because of this.
 
 Copyright (C) 2020  puz00
 
