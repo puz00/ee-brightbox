@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # ee-brightbox default password generator
-# created by puz00
+# created by puzz00
 
 def load_dictionary():
     # loads words from a given dictionary txt file
